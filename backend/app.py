@@ -52,3 +52,5 @@ def serve_static_files(filename):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+# this project is ready
